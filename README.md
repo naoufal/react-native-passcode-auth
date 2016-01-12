@@ -3,12 +3,12 @@
 [![npm version](https://img.shields.io/npm/v/react-native-passcode-auth.svg?style=flat-square)](https://www.npmjs.com/package/react-native-passcode-auth)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-passcode-auth.svg?style=flat-square)](https://www.npmjs.com/package/react-native-passcode-auth)
 
-React Native Passcode Auth is a [React Native](http://facebook.github.io/react-native/) library for authenticating users with iOS Passcode.
+React Native Passcode Auth is a [React Native](http://facebook.github.io/react-native/) library for authenticating users with iOS Passcode.  It is an excellent fallback for when [Touch ID](https://github.com/naoufal/react-native-touch-id) is not available.
 
 ![react-native-passcode-auth](https://cloud.githubusercontent.com/assets/1627824/12255178/ed7b46e2-b8be-11e5-8552-f7b60959b43c.gif)
 
 ## Documentation
-- [Install](https://github.com/naoufal/react-native-passcode-authd#install)
+- [Install](https://github.com/naoufal/react-native-passcode-auth#install)
 - [Usage](https://github.com/naoufal/react-native-passcode-auth#usage)
 - [Example](https://github.com/naoufal/react-native-passcode-auth#example)
 - [Methods](https://github.com/naoufal/react-native-passcode-auth#methods)
@@ -16,6 +16,8 @@ React Native Passcode Auth is a [React Native](http://facebook.github.io/react-n
 - [License](https://github.com/naoufal/react-native-passcode-auth#license)
 
 ## Install
+React Native Passcode Auth __requires iOS 9.0 or later__.
+
 ```shell
 npm i --save react-native-passcode-auth
 ```
