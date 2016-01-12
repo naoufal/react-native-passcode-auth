@@ -1,7 +1,7 @@
 {
   "name": "react-native-passcode-auth",
-  "version": "0.1.0",
-  "description": "React Native authentication with the native device passcode.",
+  "version": "1.0.0",
+  "description": "React Native authentication with iOS Passcode.",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
@@ -23,7 +23,7 @@
     "mobile"
   ],
   "author": "Naoufal Kadhom <naoufalkadhom@gmail.com> (https://github.com/naoufal)",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/naoufal/react-native-passcode-auth/issues"
   },
