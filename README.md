@@ -48,7 +48,7 @@ PasscodeAuth.authenticate('to demo this react-native component')
 Using PasscodeAuth in your app will usually look like this:
 ```js
 import React, { Component, AlertIOS, TouchableHighlight, View, Text } from 'react-native';
-import PasscodeAuth form 'react-native-passcode-auth';
+import PasscodeAuth from 'react-native-passcode-auth';
 
 class YourComponent extends Component {
   _pressHandler() {
