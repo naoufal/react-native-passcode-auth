@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
-  "main": "PasscodeAuth.ios.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/naoufal/react-native-passcode-auth.git"
