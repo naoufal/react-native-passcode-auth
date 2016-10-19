@@ -6,12 +6,8 @@
  */
 'use strict';
 
-var warning = require('warning');
-
-var PasscodeAuth = {
-  test: function() {
-    warning('Not yet implemented for Android.');
-  }
+export default {
+	isSupported() {
+		return false;
+	}
 };
-
-module.exports = PasscodeAuth;
